@@ -2,8 +2,7 @@
 
 # Unmilan Das
 
-**Electrical Engineering + Power Electronics @ IIT Bhubaneswar**  
-*Building at the intersection of ML systems, LLMs, and real-time data*
+**Electrical Engineering + Power Electronics @ IIT Bhubaneswar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com)
@@ -59,17 +58,6 @@ Streaming-native pipeline with Kafka and online ML (Hoeffding Adaptive Tree) ach
 **Frameworks:** PyTorch · TensorFlow · Keras · Scikit-Learn · LangChain · LangGraph · Hugging Face · FastAPI
 
 **Tools:** Pinecone · Groq · Kafka · Git · Unity
-
----
-
-## Highlights
-
-| | |
-|---|---|
-| 🏆 **Inter IIT Tech Meet 13.0** | Placed **8th** in Adobe problem statement |
-| ⚡ **Codeforces** | Specialist · Peak rating **1444** (`unmilan`) |
-| 📐 **JEE Advanced 2023** | **AIR 7880** |
-| 🎓 **CGPA** | **8.83 / 10** at IIT Bhubaneswar |
 
 ---
 
