@@ -18,7 +18,6 @@
 
 I'm a dual-degree student (B.Tech EE + M.Tech Power Electronics) at IIT Bhubaneswar, with a deep interest in **machine learning systems**, **LLM-powered agents**, and **real-time inference pipelines**. I like building things that work under pressure — low-latency, production-grade, and actually explainable.
 
-Outside of code, I lead **Neuromancers**, IIT Bhubaneswar's programming society, where I organize hackathons, bootcamps, and contests for the campus.
 
 ---
 
